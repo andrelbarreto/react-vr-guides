@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import { View, Text, Pano, AppRegistry, asset, StyleSheet } from 'react-vr';
 
+
 const places = [
   {
     title: 'Island Paradise',
